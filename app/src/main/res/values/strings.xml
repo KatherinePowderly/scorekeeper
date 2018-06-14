@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ScoreKeeper</string>
+
+
+    <string name="team1">Team One</string>
+    <string name="team2">Team Two</string>
+    <string name="touchdown">Touchdown</string>
+    <string name="twopoint">2 Point Conversion</string>
+    <string name="fieldgoal">Field Goal</string>
+</resources>
